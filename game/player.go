@@ -2,7 +2,7 @@ package game
 
 import (
 	"github.com/hajimehoshi/ebiten/v2"
-	"github.com/rillmind/navGameGO/assets"
+	"github.com/rillmind/nav-game-go/assets"
 )
 
 type Player struct {

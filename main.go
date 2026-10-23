@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/hajimehoshi/ebiten/v2"
-	"github.com/rillmind/navGameGO/game"
+	"github.com/rillmind/nav-game-go/game"
 )
 
 func main() {

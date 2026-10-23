@@ -6,7 +6,7 @@ import (
 
 	"github.com/hajimehoshi/ebiten/v2"
 	"github.com/hajimehoshi/ebiten/v2/text"
-	"github.com/rillmind/navGameGO/assets"
+	"github.com/rillmind/nav-game-go/assets"
 )
 
 type Game struct {

@@ -1,4 +1,4 @@
-module github.com/rillmind/navGameGO
+module github.com/rillmind/nav-game-go
 
 go 1.24.3
 
